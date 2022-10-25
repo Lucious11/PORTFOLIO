@@ -42,6 +42,9 @@ body {
     img {
         border-radius: 50%;
         border : solid #222 2px;
+        width: 100px;
+        height: 100px;
+    
     }
     
 
