@@ -6,9 +6,20 @@ body {
     border : solid black 2.5px;
     }
 
+
+#b2{
+        width :60%;
+        margin-left: auto;
+        margin-right: auto;
+        padding : 0 10px;
+        border : solid black 2.5px;
+        }
+
+}
+
 img{
-    width: 300px;
-    height: 300px;
+    width:200px;
+    height:200px;
 }
     
     *{
