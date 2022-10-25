@@ -1,9 +1,10 @@
 body {
     width :70%;
+    background-color: azure;
     margin-left: auto;
     margin-right: auto;
     padding : 0 10px;
-    border: solid burlywood 1.5px;
+    border: solid rgb(214, 125, 8) 1.5px;
   
     }
 
