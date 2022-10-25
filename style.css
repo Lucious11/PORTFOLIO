@@ -3,6 +3,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding : 0 10px;
+    border: solid burlywood 1.5px;
   
     }
 
@@ -12,7 +13,7 @@ body {
         margin-left: auto;
         margin-right: auto;
         padding : 0 10px;
-       
+        border: solid burlywood 1.5px;
         }
 
 }
